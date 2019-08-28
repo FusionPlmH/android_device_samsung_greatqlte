@@ -1,8 +1,6 @@
 ## Device Tree for the Samsung Galaxy Note 8 ##
 
 ## Kernel source ##
-
-#
 https://github.com/LeeMenHin/dreamqlte
 
 To build:
